@@ -3,7 +3,7 @@ High School Science 7-10 Quobject Learning Path
 
 You can help improve this Learning Path by giving us feedback about any problems you're having.
 
-[Issues](https://github.com/Quobject/quobject_learning_path_science_high_school_7_to_10_en_us/issues)<br>
+[Issues](https://github.com/Quobject/quobject_learning_path_science_high_school_7_to_10_en_us_v2/issues)<br>
 
 [Download all](https://apps.quobject.io/learning_paths/quobject_learning_path_science_high_school_7_to_10_en_us_v2/quobject_learning_path_science_high_school_7_to_10_en_us_v2%2020.01.zip)
 
